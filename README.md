@@ -20,10 +20,12 @@ George Orwell, “Politics and the English Language”, 1946
 
 
 
-<img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%201.png" />
+<img width="400" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%201.png" />
 
-<img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%202.png" />
+<img width="400" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%202.png" />
 
-<img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%203.png" />
 
-<img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%204.png" />
+
+<img width="400" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%203.png" />
+
+<img width="400" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%204.png" />
