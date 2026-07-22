@@ -1,6 +1,6 @@
 # Visions of Interdisciplinarity – Diagramming (VOIDs)  
 
-<img width="500" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%20overview.png" />
+<img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%20overview.png" />
 
 
 *“When you think of a concrete object, you think wordlessly, and then, if you want to describe the thing you have been visualizing you probably hunt about until you find the exact words that seem to fit it. 
