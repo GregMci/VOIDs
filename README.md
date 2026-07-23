@@ -4,7 +4,7 @@
 
 
 <table>
-  <tr><img width="1000" align="left" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%20overview.png" /> </tr>
+  <tr><img width="1000" alignalty="5" src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%20overview.png" /> </tr>
   <tr></tr>
     <tr><img src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%201.png" alt="1" width = 800px ></tr>
     <tr><img src="https://github.com/GregMci/VOIDs/blob/main/VOIDs%202.png" alt="2" width = 800px ></tr>
